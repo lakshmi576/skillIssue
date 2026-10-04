@@ -272,12 +272,12 @@
       <div id="dsaQuestionsContainer" style="margin-bottom: 2.5rem;">
         <!-- Unsolved Questions Section -->
         <div id="unsolvedSection">
-          <h3
+          <h2
             style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--text-primary); display: flex; align-items: center; gap: 0.5rem;">
             <span>Unsolved Questions</span>
             <span id="unsolvedCountBadge" class="badge"
               style="background: var(--bg-subtle); color: var(--text-secondary); font-size: 0.75rem;">0</span>
-          </h3>
+          </h2>
           <div class="dsa-table-wrapper" style="margin-bottom: 1.5rem;">
             <table class="dsa-table">
               <thead>
@@ -302,16 +302,16 @@
 
         <!-- Solved Questions Section -->
         <div id="solvedSection">
-          <h3
+          <h2
             style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--text-primary); display: flex; align-items: center; gap: 0.5rem;">
-            <span style="color: #16a34a; display: inline-flex; align-items: center; gap: 0.35rem;"><svg width="16"
+            <span style="color: #15803d; display: inline-flex; align-items: center; gap: 0.35rem;"><svg width="16"
                 height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
                 stroke-linecap="round" stroke-linejoin="round">
                 <polyline points="20 6 9 17 4 12"></polyline>
               </svg> Solved Questions</span>
             <span id="solvedCountBadge" class="badge"
-              style="background: rgba(22, 163, 74, 0.1); color: #16a34a; font-size: 0.75rem;">0</span>
-          </h3>
+              style="background: rgba(21, 128, 61, 0.12); color: #15803d; font-size: 0.75rem;">0</span>
+          </h2>
           <div class="dsa-table-wrapper">
             <table class="dsa-table">
               <thead>
@@ -414,7 +414,7 @@
           <!-- 1. Setup Controls Bar -->
           <div class="mock-controls-bar">
             <div style="flex: 2; min-width: 180px;">
-              <label class="control-label">INTERVIEW TYPE / ROLE</label>
+              <label class="control-label" for="mockCategorySelect">INTERVIEW TYPE / ROLE</label>
               <select class="filter-select" id="mockCategorySelect" style="width: 100%;">
                 <option value="coding">Data Structures & Algorithms</option>
                 <option value="aptitude">Aptitude & Logical Reasoning</option>
@@ -428,7 +428,7 @@
             </div>
 
             <div style="flex: 1; min-width: 130px;">
-              <label class="control-label">DURATION</label>
+              <label class="control-label" for="mockDurationSelect">DURATION</label>
               <select class="filter-select" id="mockDurationSelect" style="width: 100%;">
                 <option value="15">15m (Sprint)</option>
                 <option value="30" selected>30m (Standard)</option>
@@ -464,7 +464,7 @@
               <span id="mockCategoryLabel" class="question-category-tag">CODING</span>
               <span class="question-status-tag">Timed Session Question</span>
             </div>
-            <h3 id="mockQuestionText" class="question-prompt-text">Loading question...</h3>
+            <h2 id="mockQuestionText" class="question-prompt-text">Loading question...</h2>
 
             <!-- VS Code-like Answer Submission Area -->
             <div style="margin-top: 1.25rem;">
@@ -487,7 +487,7 @@
                 <div style="display: flex; min-height: 200px; background: #ffffff;">
                   <!-- Line Numbers Gutter -->
                   <div id="vscodeLineNumbers"
-                    style="width: 38px; background: #f8fafc; border-right: 1px solid #e2e8f0; padding: 0.75rem 0.25rem; text-align: right; font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 0.85rem; color: #94a3b8; line-height: 1.5; user-select: none;">
+                    style="width: 38px; background: #f8fafc; border-right: 1px solid #e2e8f0; padding: 0.75rem 0.25rem; text-align: right; font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 0.85rem; color: #475569; line-height: 1.5; user-select: none;">
                     1<br>2<br>3<br>4<br>5<br>6<br>7<br>8
                   </div>
                   <!-- Textarea Code & Plain Text Answer Input -->
@@ -536,7 +536,7 @@
           <!-- Self-Evaluation Card -->
           <div class="rubric-card">
             <div class="rubric-card-header">
-              <h3 style="font-size: 1.15rem; margin-bottom: 0.25rem;">Self-Evaluation Rubric</h3>
+              <h2 style="font-size: 1.15rem; margin-bottom: 0.25rem;">Self-Evaluation Rubric</h2>
               <p style="font-size: 0.82rem; color: var(--text-muted);">Grade your response against core interview
                 standards:</p>
             </div>
@@ -581,7 +581,7 @@
         <div class="modal-header">
           <div style="display: flex; align-items: center; gap: 0.65rem;">
             <span class="sub-badge" style="margin-bottom: 0;">Extra Feature</span>
-            <h3 style="margin: 0; font-size: 1.25rem;">Interview Tools & Playbooks</h3>
+            <h2 style="margin: 0; font-size: 1.25rem;">Interview Tools & Playbooks</h2>
           </div>
           <button type="button" class="modal-close-btn" onclick="closeInterviewToolsModal()">&times;</button>
         </div>
@@ -649,7 +649,7 @@
                   <div class="flashcard-front">
                     <span class="badge badge-topic" id="cardCategoryTag" style="margin-bottom: 1rem;">JavaScript &
                       Web</span>
-                    <h3 id="cardFrontQuestion">Loading concept question...</h3>
+                    <h4 id="cardFrontQuestion" style="font-size: 1.1rem; font-weight: 700;">Loading concept question...</h4>
                     <div class="flip-hint">
                       <span>Click card to reveal answer</span>
                     </div>
@@ -752,7 +752,7 @@
   <div class="modal-backdrop" id="authModal">
     <div class="modal-content" style="max-width: 440px;">
       <div class="modal-header">
-        <h3 id="authModalTitle">Sign In to skillIssue</h3>
+        <h2 id="authModalTitle" style="font-size: 1.2rem; font-weight: 700;">Sign In to skillIssue</h2>
         <button type="button" class="modal-close-btn" aria-label="Close modal">&times;</button>
       </div>
       <form id="authForm">
@@ -807,7 +807,7 @@
   <div class="modal-backdrop" id="patternModal">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 id="patternModalTitle">Problem Pattern</h3>
+        <h2 id="patternModalTitle" style="font-size: 1.2rem; font-weight: 700;">Problem Pattern</h2>
         <button type="button" class="modal-close-btn" aria-label="Close modal">&times;</button>
       </div>
       <div class="modal-body" id="patternModalBody">
@@ -824,7 +824,7 @@
   <div class="modal-backdrop" id="adminQuestionModal">
     <div class="modal-content" style="max-width: 650px;">
       <div class="modal-header">
-        <h3 id="adminQuestionModalTitle">Add New DSA Question</h3>
+        <h2 id="adminQuestionModalTitle" style="font-size: 1.2rem; font-weight: 700;">Add New DSA Question</h2>
         <button type="button" class="modal-close-btn" aria-label="Close modal">&times;</button>
       </div>
       <form id="adminQuestionForm">
