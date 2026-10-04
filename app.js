@@ -1186,7 +1186,7 @@ function renderQuestionRow(q, isSolved, isAdmin) {
   return `
     <tr class="${isSolved ? 'solved-row' : ''}">
       <td style="width: 48px; text-align: center;">
-        <input type="checkbox" class="dsa-checkbox" data-id="${q.id}" ${isSolved ? "checked" : ""}>
+        <input type="checkbox" id="chk-${q.id}" class="dsa-checkbox" data-id="${q.id}" ${isSolved ? "checked" : ""} aria-label="Mark ${q.title.replace(/"/g, '&quot;')} as solved">
       </td>
       <td>
         <div class="problem-title ${isSolved ? "solved" : ""}">
