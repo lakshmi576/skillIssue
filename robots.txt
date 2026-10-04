@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://lakshmi576.github.io/skillIssue/sitemap.xml
