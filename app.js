@@ -2381,7 +2381,7 @@ function updateAccountWidgetUI() {
   if (user) {
     // Logged in state
     if (user.profilePicture) {
-      avatarInner.innerHTML = `<img src="${user.profilePicture}" alt="${user.name}">`;
+      avatarInner.innerHTML = `<img src="${user.profilePicture}" alt="${user.name}" width="32" height="32">`;
     } else {
       const initials = user.name ? user.name.split(" ").map(n => n[0]).join("").slice(0, 2) : "U";
       avatarInner.innerHTML = `<span class="avatar-initials">${initials}</span>`;
@@ -2609,7 +2609,7 @@ function renderProfileDetailsHTML(user, initials) {
     <!-- Profile Picture Control -->
     <div class="profile-picture-container">
       <div class="profile-picture-preview" id="profilePicPreviewBox">
-        ${user.profilePicture ? `<img src="${user.profilePicture}" alt="${user.name}" style="width:100%;height:100%;object-fit:cover;">` : initials}
+        ${user.profilePicture ? `<img src="${user.profilePicture}" alt="${user.name}" width="100" height="100" style="width:100%;height:100%;object-fit:cover;">` : initials}
       </div>
       <div>
         <h4 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Profile Picture</h4>
