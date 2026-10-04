@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "id": "q-001",
+      "title": "Two Sum",
+      "topic": "Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/two-sum/",
+      "solved": false
+    },
+    {
+      "id": "q-002",
+      "title": "Subarray with Given Sum",
+      "topic": "Array",
+      "difficulty": "Medium",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
+      "solved": false
+    },
+    {
+      "id": "q-003",
+      "title": "Merge Sort",
+      "topic": "Array",
+      "difficulty": "Hard",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/practice/tags/merge-sort",
+      "solved": false
+    },
+    {
+      "id": "q-004",
+      "title": "Middle of the Linked List",
+      "topic": "Array",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/middle-of-linked-list_973250",
+      "solved": false
+    },
+    {
+      "id": "q-005",
+      "title": "Kadane's Algorithm",
+      "topic": "Array",
+      "difficulty": "Medium",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/challenges/max-subarray/problem",
+      "solved": false
+    },
+    {
+      "id": "q-006",
+      "title": "Sort Colors (0s, 1s, 2s)",
+      "topic": "Array",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/sort-colors/",
+      "solved": false
+    },
+    {
+      "id": "q-007",
+      "title": "Majority Element",
+      "topic": "Array",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
+      "solved": false
+    },
+    {
+      "id": "q-008",
+      "title": "Move Zeroes",
+      "topic": "Array",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/move-zeroes/",
+      "solved": false
+    },
+    {
+      "id": "q-009",
+      "title": "Rotate Array",
+      "topic": "Array",
+      "difficulty": "Hard",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/rotate-array_1230585",
+      "solved": false
+    },
+    {
+      "id": "q-010",
+      "title": "Container With Most Water",
+      "topic": "Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "solved": false
+    },
+    {
+      "id": "q-011",
+      "title": "Valid Anagram",
+      "topic": "String",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/valid-anagram/",
+      "solved": false
+    },
+    {
+      "id": "q-012",
+      "title": "Reverse Words in a String",
+      "topic": "String",
+      "difficulty": "Medium",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string3547/1",
+      "solved": false
+    },
+    {
+      "id": "q-013",
+      "title": "Longest Substring Without Repeating",
+      "topic": "String",
+      "difficulty": "Hard",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/practice",
+      "solved": false
+    },
+    {
+      "id": "q-014",
+      "title": "Valid Palindrome",
+      "topic": "String",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062699",
+      "solved": false
+    },
+    {
+      "id": "q-015",
+      "title": "Group Anagrams",
+      "topic": "String",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/group-anagrams/",
+      "solved": false
+    },
+    {
+      "id": "q-016",
+      "title": "String to Integer (atoi)",
+      "topic": "String",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "solved": false
+    },
+    {
+      "id": "q-017",
+      "title": "Longest Common Prefix",
+      "topic": "String",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+      "solved": false
+    },
+    {
+      "id": "q-018",
+      "title": "Count and Say",
+      "topic": "String",
+      "difficulty": "Medium",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-019",
+      "title": "Longest Palindromic Substring",
+      "topic": "String",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "solved": false
+    },
+    {
+      "id": "q-020",
+      "title": "Find Index of First Occurrence",
+      "topic": "String",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "solved": false
+    },
+    {
+      "id": "q-021",
+      "title": "Contains Duplicate",
+      "topic": "Hashing",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "solved": false
+    },
+    {
+      "id": "q-022",
+      "title": "Top K Frequent Elements",
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "solved": false
+    },
+    {
+      "id": "q-023",
+      "title": "Intersection of Two Arrays",
+      "topic": "Hashing",
+      "difficulty": "Hard",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1",
+      "solved": false
+    },
+    {
+      "id": "q-024",
+      "title": "Subarray Sum Equals K",
+      "topic": "Hashing",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/subarrays-with-sum-k_1082554",
+      "solved": false
+    },
+    {
+      "id": "q-025",
+      "title": "Longest Consecutive Sequence",
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "solved": false
+    },
+    {
+      "id": "q-026",
+      "title": "Isomorphic Strings",
+      "topic": "Hashing",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "solved": false
+    },
+    {
+      "id": "q-027",
+      "title": "4Sum",
+      "topic": "Hashing",
+      "difficulty": "Easy",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-028",
+      "title": "Happy Number",
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/happy-number/",
+      "solved": false
+    },
+    {
+      "id": "q-029",
+      "title": "Find All Anagrams in a String",
+      "topic": "Hashing",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-030",
+      "title": "First Unique Character in a String",
+      "topic": "Hashing",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "solved": false
+    },
+    {
+      "id": "q-031",
+      "title": "Reverse a Linked List",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "solved": false
+    },
+    {
+      "id": "q-032",
+      "title": "Middle of the Linked List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/middle-of-linked-list_973250",
+      "solved": false
+    },
+    {
+      "id": "q-033",
+      "title": "Detect Cycle in Linked List",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+      "solved": false
+    },
+    {
+      "id": "q-034",
+      "title": "Merge Two Sorted Lists",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "solved": false
+    },
+    {
+      "id": "q-035",
+      "title": "Remove Nth Node From End",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "solved": false
+    },
+    {
+      "id": "q-036",
+      "title": "Add Two Numbers",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "solved": false
+    },
+    {
+      "id": "q-037",
+      "title": "Intersection of Two Linked Lists",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-038",
+      "title": "Palindrome Linked List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-039",
+      "title": "Linked List Cycle II",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "solved": false
+    },
+    {
+      "id": "q-040",
+      "title": "Copy List with Random Pointer",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "solved": false
+    },
+    {
+      "id": "q-041",
+      "title": "Valid Parentheses",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "solved": false
+    },
+    {
+      "id": "q-042",
+      "title": "Min Stack",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/min-stack/",
+      "solved": false
+    },
+    {
+      "id": "q-043",
+      "title": "Evaluate Reverse Polish Notation",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1",
+      "solved": false
+    },
+    {
+      "id": "q-044",
+      "title": "Next Greater Element I",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/next-greater-element_670312",
+      "solved": false
+    },
+    {
+      "id": "q-045",
+      "title": "Daily Temperatures",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "solved": false
+    },
+    {
+      "id": "q-046",
+      "title": "Largest Rectangle in Histogram",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-047",
+      "title": "Simplify Path",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/simplify-path/",
+      "solved": false
+    },
+    {
+      "id": "q-048",
+      "title": "Decode String",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-049",
+      "title": "Asteroid Collision",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "solved": false
+    },
+    {
+      "id": "q-050",
+      "title": "Online Stock Span",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/online-stock-span/",
+      "solved": false
+    },
+    {
+      "id": "q-051",
+      "title": "Implement Queue using Stacks",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "solved": false
+    },
+    {
+      "id": "q-052",
+      "title": "Implement Stack using Queues",
+      "topic": "Queue",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "solved": false
+    },
+    {
+      "id": "q-053",
+      "title": "Sliding Window Maximum",
+      "topic": "Queue",
+      "difficulty": "Hard",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1",
+      "solved": false
+    },
+    {
+      "id": "q-054",
+      "title": "First Non-Repeating Character",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/first-non-repeating-character-in-a-stream_975306",
+      "solved": false
+    },
+    {
+      "id": "q-055",
+      "title": "Rotting Oranges",
+      "topic": "Queue",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "solved": false
+    },
+    {
+      "id": "q-056",
+      "title": "Design Circular Queue",
+      "topic": "Queue",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-057",
+      "title": "Number of Recent Calls",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "solved": false
+    },
+    {
+      "id": "q-058",
+      "title": "Task Scheduler",
+      "topic": "Queue",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/task-scheduler/",
+      "solved": false
+    },
+    {
+      "id": "q-059",
+      "title": "Dota2 Senate",
+      "topic": "Queue",
+      "difficulty": "Hard",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-060",
+      "title": "Moving Average from Data Stream",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/moving-average-from-data-stream/",
+      "solved": false
+    },
+    {
+      "id": "q-061",
+      "title": "Binary Tree Inorder Traversal",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "solved": false
+    },
+    {
+      "id": "q-062",
+      "title": "Maximum Depth of Binary Tree",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/1",
+      "solved": false
+    },
+    {
+      "id": "q-063",
+      "title": "Invert Binary Tree",
+      "topic": "Trees",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "solved": false
+    },
+    {
+      "id": "q-064",
+      "title": "Lowest Common Ancestor of BST",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/lca-in-a-bst_981280",
+      "solved": false
+    },
+    {
+      "id": "q-065",
+      "title": "Binary Tree Level Order Traversal",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "solved": false
+    },
+    {
+      "id": "q-066",
+      "title": "Same Tree",
+      "topic": "Trees",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-067",
+      "title": "Subtree of Another Tree",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "solved": false
+    },
+    {
+      "id": "q-068",
+      "title": "Validate Binary Search Tree",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "solved": false
+    },
+    {
+      "id": "q-069",
+      "title": "Kth Smallest Element in a BST",
+      "topic": "Trees",
+      "difficulty": "Hard",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-070",
+      "title": "Diameter of Binary Tree",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "solved": false
+    },
+    {
+      "id": "q-071",
+      "title": "Detect Cycle in Undirected Graph",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+      "solved": false
+    },
+    {
+      "id": "q-072",
+      "title": "Number of Islands",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/number-of-islands/",
+      "solved": false
+    },
+    {
+      "id": "q-073",
+      "title": "Clone Graph",
+      "topic": "Graphs",
+      "difficulty": "Hard",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/clone-graph_1103024",
+      "solved": false
+    },
+    {
+      "id": "q-074",
+      "title": "Course Schedule",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/course-schedule/",
+      "solved": false
+    },
+    {
+      "id": "q-075",
+      "title": "Dijkstra's Algorithm",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+      "solved": false
+    },
+    {
+      "id": "q-076",
+      "title": "Pacific Atlantic Water Flow",
+      "topic": "Graphs",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-077",
+      "title": "Surrounded Regions",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "solved": false
+    },
+    {
+      "id": "q-078",
+      "title": "Word Ladder",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/word-ladder/",
+      "solved": false
+    },
+    {
+      "id": "q-079",
+      "title": "Graph Valid Tree",
+      "topic": "Graphs",
+      "difficulty": "Hard",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-080",
+      "title": "Network Delay Time",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/network-delay-time/",
+      "solved": false
+    },
+    {
+      "id": "q-081",
+      "title": "Tower of Hanoi",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1",
+      "solved": false
+    },
+    {
+      "id": "q-082",
+      "title": "Fibonacci Number",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "solved": false
+    },
+    {
+      "id": "q-083",
+      "title": "Subsets",
+      "topic": "Recursion",
+      "difficulty": "Hard",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/subsets_3844372",
+      "solved": false
+    },
+    {
+      "id": "q-084",
+      "title": "Permutations",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/permutations/",
+      "solved": false
+    },
+    {
+      "id": "q-085",
+      "title": "Combination Sum",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/combination-sum/",
+      "solved": false
+    },
+    {
+      "id": "q-086",
+      "title": "Word Search",
+      "topic": "Recursion",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-087",
+      "title": "N-Queens",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/n-queens/",
+      "solved": false
+    },
+    {
+      "id": "q-088",
+      "title": "Palindrome Partitioning",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-089",
+      "title": "Generate Parentheses",
+      "topic": "Recursion",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "solved": false
+    },
+    {
+      "id": "q-090",
+      "title": "Power of Three",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/power-of-three/",
+      "solved": false
+    },
+    {
+      "id": "q-091",
+      "title": "Merge Sort",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/practice/tags/merge-sort",
+      "solved": false
+    },
+    {
+      "id": "q-092",
+      "title": "Quick Sort",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+      "solved": false
+    },
+    {
+      "id": "q-093",
+      "title": "Insertion Sort",
+      "topic": "Sorting",
+      "difficulty": "Hard",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+      "solved": false
+    },
+    {
+      "id": "q-094",
+      "title": "Sort an Array",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/sort-an-array/",
+      "solved": false
+    },
+    {
+      "id": "q-095",
+      "title": "Largest Number",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/largest-number_1082552",
+      "solved": false
+    },
+    {
+      "id": "q-096",
+      "title": "Kth Largest Element in an Array",
+      "topic": "Sorting",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "solved": false
+    },
+    {
+      "id": "q-097",
+      "title": "Top K Frequent Words",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-098",
+      "title": "Sort Colors",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/sort-colors/",
+      "solved": false
+    },
+    {
+      "id": "q-099",
+      "title": "Custom Sort String",
+      "topic": "Sorting",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/custom-sort-string/",
+      "solved": false
+    },
+    {
+      "id": "q-100",
+      "title": "Sort List",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/sort-list/",
+      "solved": false
+    },
+    {
+      "id": "q-101",
+      "title": "Binary Search",
+      "topic": "Searching",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/binary-search/",
+      "solved": false
+    },
+    {
+      "id": "q-102",
+      "title": "Search in Rotated Sorted Array",
+      "topic": "Searching",
+      "difficulty": "Medium",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/search-in-rotated-sorted-array_1082554",
+      "solved": false
+    },
+    {
+      "id": "q-103",
+      "title": "First Bad Version",
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/first-bad-version/",
+      "solved": false
+    },
+    {
+      "id": "q-104",
+      "title": "Find First and Last Position",
+      "topic": "Searching",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
+      "solved": false
+    },
+    {
+      "id": "q-105",
+      "title": "Search a 2D Matrix",
+      "topic": "Searching",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "solved": false
+    },
+    {
+      "id": "q-106",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-107",
+      "title": "Peak Index in a Mountain Array",
+      "topic": "Searching",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "solved": false
+    },
+    {
+      "id": "q-108",
+      "title": "Capacity To Ship Packages",
+      "topic": "Searching",
+      "difficulty": "Medium",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-109",
+      "title": "Koko Eating Bananas",
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "solved": false
+    },
+    {
+      "id": "q-110",
+      "title": "Median of Two Sorted Arrays",
+      "topic": "Searching",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "solved": false
+    },
+    {
+      "id": "q-111",
+      "title": "Climbing Stairs",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "solved": false
+    },
+    {
+      "id": "q-112",
+      "title": "Coin Change",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/coin-change/",
+      "solved": false
+    },
+    {
+      "id": "q-113",
+      "title": "Longest Increasing Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "platform": "Code360",
+      "problemUrl": "https://www.naukri.com/code360/problems/longest-increasing-subsequence_630459",
+      "solved": false
+    },
+    {
+      "id": "q-114",
+      "title": "0 - 1 Knapsack Problem",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "platform": "GeeksforGeeks",
+      "problemUrl": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0917/1",
+      "solved": false
+    },
+    {
+      "id": "q-115",
+      "title": "House Robber",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/house-robber/",
+      "solved": false
+    },
+    {
+      "id": "q-116",
+      "title": "Word Break",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "platform": "HackerRank",
+      "problemUrl": "https://www.hackerrank.com/",
+      "solved": false
+    },
+    {
+      "id": "q-117",
+      "title": "Partition Equal Subset Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "solved": false
+    },
+    {
+      "id": "q-118",
+      "title": "Longest Common Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "platform": "CodeChef",
+      "problemUrl": "https://www.codechef.com/",
+      "solved": false
+    },
+    {
+      "id": "q-119",
+      "title": "Edit Distance",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/edit-distance/",
+      "solved": false
+    },
+    {
+      "id": "q-120",
+      "title": "Target Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "problemUrl": "https://leetcode.com/problems/target-sum/",
+      "solved": false
+    }
+  ]
+}
